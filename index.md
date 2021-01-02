@@ -25,4 +25,4 @@ A quick and easy to use school tool (I guess you could say). This is our tempora
 - Create formula sheets
 
 # Install the latest version:
-[Click here then download the file named alnotes-Setup-version.exe!](https://github.com/AmeerHamoodi/Al-Notes/releases/latest)
+[Click here](https://github.com/AmeerHamoodi/Al-Notes/releases/latest) then download the file named alnotes-Setup-version.exe!
