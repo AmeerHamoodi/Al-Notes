@@ -1,4 +1,5 @@
 # Al-Notes
+![Logo](https://raw.githubusercontent.com/AmeerHamoodi/Al-Notes/main/icon.png)
 - A quick easy to use note taking/school organizational software
 - Allows you to create Anki cards while in your notes on the go
 - Can create classes, textbooks, labs meetings and notes and store them in this software to avoid the mess of a million different links for different things!
