@@ -18,8 +18,8 @@
 - Create and delete classes
 - Can create and delete textbooks, labs and meetings in each class (links with names basically)
 - Can create notes for different classes
+- Notes are now organized into units
 
 # TODOs:
 - Allow users to draw anywhere on screen
-- Create Units to store notes in to make it more organized
 - Create formula sheets
